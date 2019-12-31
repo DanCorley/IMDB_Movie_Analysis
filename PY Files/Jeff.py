@@ -8,10 +8,10 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 
 #read csv
-imdb_basics = pd.read_csv('imdb.title.basics.csv')
-imdb_ratings = pd.read_csv('imdb.title.ratings.csv')
-tn = pd.read_csv('tn.movie_budgets.csv')
-bom = pd.read_csv('bom.movie_gross.csv')
+imdb_basics = pd.read_csv('../Expanded CSVs/imdb.title.basics.csv')
+imdb_ratings = pd.read_csv('../Expanded CSVs/imdb.title.ratings.csv')
+tn = pd.read_csv('../Expanded CSVs/tn.movie_budgets.csv')
+bom = pd.read_csv('../Expanded CSVs/bom.movie_gross.csv')
 
 #merge dataframes
 imdb_title_ratings = pd.merge(imdb_basics,imdb_ratings,on="tconst")
