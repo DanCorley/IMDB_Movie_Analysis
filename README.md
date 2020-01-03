@@ -2,7 +2,7 @@
 ### By: Dan Corley & Jeff Lindberg
 
 ## Executive Summary
-The goal of this analysis is to explore what type of films are currently doing the best at the box office. We analalyzed datasets from IMDB and The Numbers to determine which genre had the highest profits. We also wanted to see which directors had the highest production value for that genre. Our analysis showed that the Sci-Fi genre had the highest profits and ceiling for revenue. Colin Trevorrow and J.A. Bayona were the most valuable directors in that genre.
+The goal of this analysis is to explore what type of films are currently doing the best at the box office. We analyzed datasets from IMDB and The Numbers to determine which genre had the highest profits. We also wanted to see which directors had the highest production value for that genre. Our analysis showed that the Sci-Fi genre had the highest profits and ceiling for revenue. Colin Trevorrow and J.A. Bayona were the most valuable directors in that genre.
 
 ## Contents
 1. [Introduction](#introduction)
